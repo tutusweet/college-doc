@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-doc",
+  "version": "1.0.0",
+  "description": "新中地前端实训课大纲",
+  "main": "index.js",
+  "author": "smable",
+  "license": "MIT",
+  "scripts":{
+    "dev":"vitepress dev docs",
+    "build":"vitepress build docs",
+    "preview":"vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
+  }
+}
