@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: 开始学习
       link: /html/intro
+    - theme: brand
+      text: 课程安排
+      link: /plan
     - theme: alt
       text: 了解新中地
       link: http://www.x-zd.com/

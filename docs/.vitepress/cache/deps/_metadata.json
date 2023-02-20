@@ -1,13 +1,32 @@
 {
-  "hash": "8785cc74",
-  "browserHash": "c6eb65bd",
+  "hash": "77a69b19",
+  "browserHash": "48c3d2c4",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "9d147346",
+      "fileHash": "0ad7deac",
+      "needsInterop": false
+    },
+    "moment": {
+      "src": "../../../../node_modules/moment/dist/moment.js",
+      "file": "moment.js",
+      "fileHash": "49269e09",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "bdbc2e86",
       "needsInterop": false
     }
   },
-  "chunks": {}
+  "chunks": {
+    "chunk-4S7LXNVO": {
+      "file": "chunk-4S7LXNVO.js"
+    },
+    "chunk-HYZYPRER": {
+      "file": "chunk-HYZYPRER.js"
+    }
+  }
 }

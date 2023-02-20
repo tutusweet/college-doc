@@ -94,7 +94,7 @@ export default {
             { text: "JS数组", link: "/javascript/array" },
             { text: "JS数组方法", link: "/javascript/array-methods" },
             { text: "JS数组遍历", link: "/javascript/iterator" },
-            { text: "JS数组遍历", link: "/javascript/object" },
+            { text: "JS对象", link: "/javascript/object" },
           ],
         },
         {
