@@ -145,7 +145,7 @@ export default {
       ]
     },
     footer:{
-        message:'版权声明',
+        message:'版权声明 鄂ICP备2022000216号-2',
         copyright:'本文档内容版权为新中地教育所有，保留所有权利。'
     }
   },
